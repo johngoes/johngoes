@@ -9,13 +9,14 @@
 <p>Em 2012 fui sócio-fundador da gosocial.cc, uma empresa que era incubada por uma agência de publicidade, em Santos-SP. Lá desenvolvi desde sites institucionais, ferramentas de gerenciamento de redes sociais conectado com a API do Facebook, jogos para o Facebook com sistema de Rank até sistemas de intranet e de gerenciamento de planos de saúde.</p>
 <p>Pude ter contato com empresas e políticos da região e até desenvolver soluções para empresas maiores, como a OR Realizações, da Odebrecht.</p>
 <p>Desenvolvi também o primeiro produto de sucesso da empresa: o InstaLIVE, que permitia exibir em um telão dos eventos as postagens com a hashtag da festa. Fomos destaques na mídia local e expandimos nosso leque de produtos com outros aplicativos usados em totens em eventos.</p>
-<p>Atualmente estou me aprofundando em React e tenho interesse em Web3.0, no desenvolvimento de dApps e jogos NFT.</p>
+<p>Tenho me aprofundado em React e tenho interesse em Web3.0, no desenvolvimento de dApps e jogos NFT.</p>
+<p>Atualmente trabalho como Analista de Sistemas e EAD para um Centro Universitário na minha região, sou responsável por todos os sistemas internos que gerenciam a instituição e também desenvolvo soluções de integração entre sistemas e novas ferramentas para auxiliar o crescimento da mesma.</p>
 <hr>
 <p>Além de desenvolvedor backend e frontend gosto da parte de design, no layout de sites ou ux de sistemas e apps.
 Tenho a fotografia como hobby, assim como edição de vídeos, portanto conheço bem os softwares da Adobe, 
 como Premiere Pro, After Effects, Photoshop e Illustrator, além do Adobe XD para projetar interfaces.</p>
 <hr>
-<p>Para falar comigo basta mandar um e-mail para <a href="mailto:joao@gosocial.cc">joao@gosocial.cc</a> ou me chamar no <a href="https://wa.me/5513996150032">WhatsApp</a>.</p>
+<p>Para falar comigo basta mandar um e-mail para <a href="mailto:johnngoes@gmail.com">johnngoes@gmail.com</a> ou me chamar no <a href="https://wa.me/5513996150032">WhatsApp</a>.</p>
 <p><a href="https://joaogoes.vercel.app">joaogoes.vercel.app</a></p>
 
 <!---
